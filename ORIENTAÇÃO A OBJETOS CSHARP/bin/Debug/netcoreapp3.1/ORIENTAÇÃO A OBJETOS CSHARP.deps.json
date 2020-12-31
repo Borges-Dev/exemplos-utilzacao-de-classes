@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ORIENTAÇÃO A OBJETOS CSHARP/1.0.0": {
+        "runtime": {
+          "ORIENTAÇÃO A OBJETOS CSHARP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ORIENTAÇÃO A OBJETOS CSHARP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

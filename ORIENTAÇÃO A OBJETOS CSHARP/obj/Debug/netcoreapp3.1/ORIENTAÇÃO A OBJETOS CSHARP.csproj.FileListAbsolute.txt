@@ -1,0 +1,13 @@
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\bin\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.exe
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\bin\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.deps.json
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\bin\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\bin\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\bin\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.dll
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\bin\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.pdb
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.dll
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.pdb
+C:\Users\bruno\OneDrive\Documentos\testes de aplicativos em C#\ORIENTAÇÃO A OBJETOS CSHARP\ORIENTAÇÃO A OBJETOS CSHARP\obj\Debug\netcoreapp3.1\ORIENTAÇÃO A OBJETOS CSHARP.genruntimeconfig.cache

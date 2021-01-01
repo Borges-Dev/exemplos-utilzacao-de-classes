@@ -9,42 +9,57 @@ namespace ORIENTAÇÃO_A_OBJETOS_CSHARP
         public double Idade;
     }*/
 
-   /* class funcionario
-    {
-        public string Nome;
-        public double salario;
+    /* class funcionario
+     {
+         public string Nome;
+         public double salario;
 
-    }*/
+     }*/
 
-   /* class produto
+    /* class produto
+     {
+         public string nome;
+         public double valor;
+         public double quantidade;
+         public double add;
+         public double remov;
+
+         public double total()
+         {
+             return valor * quantidade;
+         }
+         public override string ToString()
+         {
+            return "Dados do produto: " + nome + ", " + valor.ToString("F2", CultureInfo.InvariantCulture) + ", " + quantidade + " unidades, total: $ " + total().ToString("F2", CultureInfo.InvariantCulture);
+
+         }
+
+         public void addproduto()
+         {
+             quantidade = quantidade + add;
+             Console.WriteLine("Dados atualizados: " + nome + ", " + valor.ToString("F2", CultureInfo.InvariantCulture) + ", " + quantidade + " unidades, total: $ " + total().ToString("F2", CultureInfo.InvariantCulture));
+         }
+         public void removproduto()
+         {
+             quantidade = quantidade - remov;
+             Console.WriteLine("Dados atualizados: " + nome + ", " + valor.ToString("F2", CultureInfo.InvariantCulture) + ", " + quantidade + " total: $ " + total().ToString("F2", CultureInfo.InvariantCulture));
+         }
+
+
+     }*/
+    //execicio de static
+   /* class conversor
     {
-        public string nome;
-        public double valor;
-        public double quantidade;
-        public double add;
-        public double remov;
+        public static double iof = 6.0;
         
-        public double total()
+        public static double val(double cotacao, double quantia)
         {
-            return valor * quantidade;
-        }
-        public override string ToString()
-        {
-           return "Dados do produto: " + nome + ", " + valor.ToString("F2", CultureInfo.InvariantCulture) + ", " + quantidade + " unidades, total: $ " + total().ToString("F2", CultureInfo.InvariantCulture);
-
-        }
-
-        public void addproduto()
-        {
-            quantidade = quantidade + add;
-            Console.WriteLine("Dados atualizados: " + nome + ", " + valor.ToString("F2", CultureInfo.InvariantCulture) + ", " + quantidade + " unidades, total: $ " + total().ToString("F2", CultureInfo.InvariantCulture));
-        }
-        public void removproduto()
-        {
-            quantidade = quantidade - remov;
-            Console.WriteLine("Dados atualizados: " + nome + ", " + valor.ToString("F2", CultureInfo.InvariantCulture) + ", " + quantidade + " total: $ " + total().ToString("F2", CultureInfo.InvariantCulture));
+            double total = quantia * cotacao;
+            return total = total * iof / 100;
         }
 
 
     }*/
+
+
 }

@@ -76,5 +76,18 @@ namespace ORIENTAÇÃO_A_OBJETOS_CSHARP
             x.removproduto();
 
         }*/
+
+        //exercicios de static
+        /*static void Main(string[] args)
+        {
+            Console.WriteLine("Qual é a cotação do dólar?");
+            double cotacao = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Quantos dolares você vai gastar?");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double result = conversor.val(cotacao, quantia);
+
+            Console.WriteLine("Valor a ser pago em reais = " + result.ToString("f2", CultureInfo.InvariantCulture));
+        }*/
     }
 }
